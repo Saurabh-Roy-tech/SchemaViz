@@ -1,4 +1,4 @@
-# 🔥 RachnaAI
+# 🔥 SchemaAI
 
 An AI-powered tool that analyzes GitHub repositories and automatically generates Entity-Relationship (ER) diagrams using **DOT language** and **Google Gemini AI**.
 
@@ -35,7 +35,7 @@ An AI-powered tool that analyzes GitHub repositories and automatically generates
 
 1. **Clone the repository**
 ```bash
-cd RachnaAI
+cd SchemaAI
 ```
 
 2. **Set up Backend**
@@ -104,7 +104,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser!
 ## 📁 Project Structure
 
 ```
-RachnaAI/
+SchemaAI/
 ├── frontend/          # Next.js application
 │   ├── src/
 │   │   ├── app/      # Pages and routes

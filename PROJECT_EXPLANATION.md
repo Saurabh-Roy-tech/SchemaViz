@@ -1,8 +1,8 @@
-# RachnaAI: AI-Powered ER Diagram Generator
+# SchemaAI: AI-Powered ER Diagram Generator
 ## Project Explanation Guide for Interviews
 
 ### 1. Elevator Pitch (The 30-Second Summary)
-"RachnaAI is an intelligent developer tool that instantly transforms any GitHub repository URL into a visual Entity-Relationship (ER) diagram. It uses Google's Gemini AI to analyze code files, detect database schemas (from SQL, Prisma, Django, etc.), and renders interactive diagrams in the browser. It solves the problem of outdated or missing documentation by automating the visualization of database architectures."
+"SchemaAI is an intelligent developer tool that instantly transforms any GitHub repository URL into a visual Entity-Relationship (ER) diagram. It uses Google's Gemini AI to analyze code files, detect database schemas (from SQL, Prisma, Django, etc.), and renders interactive diagrams in the browser. It solves the problem of outdated or missing documentation by automating the visualization of database architectures."
 
 ---
 
@@ -12,7 +12,7 @@
 *   **Manual Effort:** Manually drawing ER diagrams is tedious and time-consuming.
 
 ### 3. The Solution
-RachnaAI automates this process. The user simply pastes a GitHub URL. The system clones the repo, identifies relevant schema files (like `schema.prisma`, `models.py`, `.sql` files), sends them to an LLM (Gemini) to extract the structure, and generates a DOT graph visualization.
+SchemaAI automates this process. The user simply pastes a GitHub URL. The system clones the repo, identifies relevant schema files (like `schema.prisma`, `models.py`, `.sql` files), sends them to an LLM (Gemini) to extract the structure, and generates a DOT graph visualization.
 
 ---
 

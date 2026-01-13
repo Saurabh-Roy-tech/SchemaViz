@@ -1,7 +1,7 @@
 {
-  "name": "rachna-ai-backend",
+  "name": "schema-ai-backend",
   "version": "1.0.0",
-  "description": "Backend API for RachnaAI - ER Diagram Generator",
+  "description": "Backend API for SchemaAI - ER Diagram Generator",
   "main": "src/index.js",
   "type": "module",
   "scripts": {

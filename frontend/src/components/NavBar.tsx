@@ -14,7 +14,7 @@ export default function NavBar() {
                             </svg>
                         </div>
                         <h1 className="text-2xl font-bold bg-gradient-to-r from-rose-700 to-rose-900 bg-clip-text text-transparent">
-                            RachnaAI
+                            SchemaAI
                         </h1>
                     </div>
 

@@ -1,4 +1,4 @@
-# 🎓 Student Guide: RachnaAI
+# 🎓 Student Guide: SchemaAI
 
 ## 📚 What You'll Learn
 

@@ -15,7 +15,7 @@ const Footer = () => {
                                 </svg>
                             </div>
                             <span className="text-xl font-bold bg-gradient-to-r from-rose-700 to-rose-900 bg-clip-text text-transparent">
-                                RachnaAI
+                                SchemaAI
                             </span>
                         </div>
                         <p className="text-gray-600 max-w-sm">
@@ -52,7 +52,7 @@ const Footer = () => {
                 </div>
 
                 <div className="pt-8 border-t border-gray-200 text-center text-sm text-gray-500 flex flex-col md:flex-row justify-between items-center gap-4">
-                    <p>&copy; {new Date().getFullYear()} RachnaAI. Open Source Project.</p>
+                    <p>&copy; {new Date().getFullYear()} SchemaAI. Open Source Project.</p>
                     <p> by Saurabh Roy</p>
                 </div>
             </div>

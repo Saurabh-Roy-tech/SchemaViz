@@ -12,7 +12,7 @@ export default function About() {
                     {/* Hero Section */}
                     <section className="text-center space-y-6">
                         <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
-                            About <span className="text-rose-700">RachnaAI</span>
+                            About <span className="text-rose-700">SchemaAI</span>
                         </h1>
                         <p className="text-xl text-gray-600 leading-relaxed">
                             Empowering developers to visualize complexity. We turn code into clear, actionable diagrams instantly.
@@ -28,7 +28,7 @@ export default function About() {
                                 Documentation frequently lags behind code, leading to confusion and errors.
                             </p>
                             <p className="mt-4">
-                                <strong>RachnaAI</strong> was born from this necessity. By harnessing the power of modern AI (Google Gemini), we provide an automated solution
+                                <strong>SchemaAI</strong> was born from this necessity. By harnessing the power of modern AI (Google Gemini), we provide an automated solution
                                 that reads your repository and generates accurate Entity-Relationship (ER) diagrams in seconds. Our goal is to bridge the gap between
                                 code and comprehension, allowing developers to focus on building, not documenting.
                             </p>
@@ -57,7 +57,7 @@ export default function About() {
                         <div className="bg-white rounded-2xl p-8 shadow-sm border border-gray-100">
                             <h3 className="text-2xl font-bold text-gray-900 mb-4">Why It Matters</h3>
                             <p className="text-gray-600 mb-4">
-                                Visualizing data structures is the first step to optimizing them. RachnaAI helps you:
+                                Visualizing data structures is the first step to optimizing them. SchemaAI helps you:
                             </p>
                             <ul className="space-y-2 text-gray-600">
                                 <li>• Onboard new team members faster</li>
@@ -84,7 +84,7 @@ export default function About() {
                             <p className="text-gray-600 max-w-2xl mx-auto mb-8 leading-relaxed">
                                 A passionate Full Stack Developer with a knack for building intuitive AI-powered applications.
                                 Dedicated to solving real-world developer problems through clean code and innovative solutions.
-                                Saurabh created RachnaAI to simplify the complex task of database architecture visualization for developers worldwide.
+                                Saurabh created SchemaAI to simplify the complex task of database architecture visualization for developers worldwide.
                             </p>
 
                             <div className="flex justify-center gap-4">

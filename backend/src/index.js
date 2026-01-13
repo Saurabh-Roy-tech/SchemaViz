@@ -19,7 +19,7 @@ app.use(express.json());
 // Routes
 app.get('/', (req, res) => {
     res.json({
-        message: 'RachnaAI API',
+        message: 'SchemaAI API',
         version: '1.0.0',
         endpoints: {
             analyze: 'POST /api/analyze',
